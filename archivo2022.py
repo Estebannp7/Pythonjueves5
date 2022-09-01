@@ -1,0 +1,2 @@
+
+print("comenzo qatar")
